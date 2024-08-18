@@ -7,6 +7,6 @@
 - For angular, Install all the required packages using the command `npm install`
 - To serve the angular application, use the command `npm start`
 
-  # Usages
+# Usages
 
-  - This project contains the usage of http client, interceptors, signals, app-wide error handling and rxjs operators in angular
+- This project contains the usage of http client, interceptors, signals, app-wide error handling and rxjs operators in angular.
